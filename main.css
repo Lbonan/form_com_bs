@@ -10,3 +10,26 @@ form h2 {
   margin-top: 80px;
   width: 40%;
 }
+
+.error {
+  color: red;
+}
+
+form label {
+  display: block;
+}
+
+#iniciar {
+  margin-bottom: 20px;
+}
+
+.form-check {
+  margin-top: 16px;
+}
+
+#alerta-error {
+  display: none;
+  margin-top: 16px;
+  color: #ff0000;
+  font-weight: bold;
+}
